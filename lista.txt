@@ -1,6 +1,7 @@
 Lista de Nombres
 
 1.- Francisco Lopez Briones
+<<<<<<< HEAD
 2.- Paul Vazquez cervantes
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -16,3 +17,6 @@ Tz y And Love4Eve
 asasdasd
 23.- Siloe Diego Andriano Avelar
 >>>>>>> e1a8f1061ee4775616f66813d8baae928ed09eff
+=======
+2.- Paul Vazquez cervantes
+>>>>>>> 8711e7db60515dc615b94b615764000b50b43dc7
