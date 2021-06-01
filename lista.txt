@@ -2,6 +2,10 @@ Lista de Nombres
 
 1.- Francisco Lopez Briones
 2.- Paul Vazquez cervantes
+<<<<<<< HEAD
 Avr
 23.- Siloe Diego Andriano Avelar
 3.- Jhonathan Contreras Tzintzun
+=======
+23.- Siloe Diego Andriano Avelar
+>>>>>>> c10c766af1c3e32a88e6cbdfeb91c5f7b30961df
