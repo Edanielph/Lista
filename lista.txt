@@ -1,6 +1,3 @@
-Lista de Nombres
+Lista 
 
-1.- Francisco Lopez Briones
-2.- Paul Vazquez cervantes
-3.- Jhonathan Contreras
-23.- Siloe Diego Andriano Avelar
+1.- Jhonathan Contreras
