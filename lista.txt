@@ -1,6 +1,30 @@
 Lista de Nombres
 
 1.- Francisco Lopez Briones
+<<<<<<< HEAD
 2.- Paul Vazquez cervantes
 
 No me se las tablas y extraño a mi ex, ayuda raza
+=======
+<<<<<<< HEAD
+2.- Paul Vazquez cervantes
+<<<<<<< HEAD
+<<<<<<< HEAD
+Avr
+23.- Siloe Diego Andriano Avelar
+3.- Jhonathan Contreras Tzintzun
+=======
+23.- Siloe Diego Andriano Avelar
+>>>>>>> c10c766af1c3e32a88e6cbdfeb91c5f7b30961df
+=======
+Tz y And Love4Eve
+23.- Siloe Diego Andriano Avelar
+asasdasd
+23.- Siloe Diego Andriano Avelar
+>>>>>>> e1a8f1061ee4775616f66813d8baae928ed09eff
+=======
+2.- Paul Vazquez cervantes
+>>>>>>> 8711e7db60515dc615b94b615764000b50b43dc7
+>>>>>>> ff190665f8c9c02b5735fe2fae4e69ca4d6ee847
+
+Extraño a mi ex, ayuda, raza :c
